@@ -6,6 +6,7 @@ I have always kept myself up-to-date with new technologies and market trends, wh
 
 I am always looking for new challenges and interesting projects, where I can apply my skills and experience to create high-impact solutions. If you are looking for an experienced fullstack developer who is passionate about technology, please do not hesitate to contact me.
 
+---
 
 ### Olá 👋
 
