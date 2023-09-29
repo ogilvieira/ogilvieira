@@ -10,11 +10,11 @@ I am always looking for new challenges and interesting projects, where I can app
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogilvieira&show_icons=true&theme=dracula&show=prs_merged)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogilvieira&theme=dracula&layout=donut)
 
+## Pins
+![validator-brasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=validator-brasil&theme=dracula)
+![pixbrasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=pixbrasil&theme=dracula)
+
 ## Social
 ❤️ [NPM Packages](https://www.npmjs.com/~ogilvieira?activeTab=packages) **|**
 🐦 [Twitter](https://www.linkedin.com/in/ogilvieira/) **|**
 👔 [LinkedIn](https://www.linkedin.com/in/ogilvieira/)
-
-## Pins
-![validator-brasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=validator-brasil&theme=dracula)
-![pixbrasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=pixbrasil&theme=dracula)
