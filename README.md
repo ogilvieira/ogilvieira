@@ -11,8 +11,8 @@ I am always looking for new challenges and interesting projects, where I can app
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogilvieira&theme=dracula&layout=donut)
 
 ## Pins
-![validator-brasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=validator-brasil&theme=dracula)
-![pixbrasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=pixbrasil&theme=dracula)
+[![validator-brasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=validator-brasil&theme=dracula)](https://github.com/ogilvieira/validator-brasil)
+[![pixbrasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=pixbrasil&theme=dracula)](https://github.com/ogilvieira/pixbrasil)
 
 ## Social
 ❤️ [NPM Packages](https://www.npmjs.com/~ogilvieira?activeTab=packages) **|**
