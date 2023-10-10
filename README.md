@@ -7,12 +7,12 @@ I have always kept myself up-to-date with new technologies and market trends, wh
 I am always looking for new challenges and interesting projects, where I can apply my skills and experience to create high-impact solutions. If you are looking for an experienced fullstack developer who is passionate about technology, please do not hesitate to contact me.
 
 ## Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogilvieira&show_icons=true&theme=dracula&show=prs_merged)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogilvieira&theme=dracula&layout=donut)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogilvieira&show_icons=true&theme=gruvbox&show=prs_merged)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogilvieira&theme=gruvbox&layout=donut)
 
 ## Pins
-[![validator-brasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=validator-brasil&theme=dracula)](https://github.com/ogilvieira/validator-brasil)
-[![pixbrasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=pixbrasil&theme=dracula)](https://github.com/ogilvieira/pixbrasil)
+[![validator-brasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=validator-brasil&theme=gruvbox)](https://github.com/ogilvieira/validator-brasil)
+[![pixbrasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=pixbrasil&theme=gruvbox)](https://github.com/ogilvieira/pixbrasil)
 
 ## Social
 ❤️ [NPM Packages](https://www.npmjs.com/~ogilvieira?activeTab=packages) **|**
