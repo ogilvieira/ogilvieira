@@ -19,16 +19,9 @@ Handling pressure, overcoming challenges, and maintaining performance amid unexp
 Open to learning and accessible for mentoring colleagues.
 
 
-## Roadmap
-[![roadmap.sh](https://roadmap.sh/card/wide/66c355f234a9226f380c4636?variant=dark&roadmaps=golang%2Cnodejs%2Cjavascript%2Cvue)](https://roadmap.sh)
-
 ## Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogilvieira&show_icons=true&theme=gruvbox&show=prs_merged)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogilvieira&theme=gruvbox&layout=donut)
-
-## Pins
-[![validator-brasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=validator-brasil&theme=gruvbox)](https://github.com/ogilvieira/validator-brasil)
-[![pixbrasil](https://github-readme-stats.vercel.app/api/pin/?username=ogilvieira&repo=pixbrasil&theme=gruvbox)](https://github.com/ogilvieira/pixbrasil)
 
 ## Social
 ❤️ [NPM Packages](https://www.npmjs.com/~ogilvieira?activeTab=packages) **|**
