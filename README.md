@@ -18,11 +18,6 @@ Handling pressure, overcoming challenges, and maintaining performance amid unexp
 👥 Proactive Collaborator
 Open to learning and accessible for mentoring colleagues.
 
-
-## Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogilvieira&show_icons=true&theme=gruvbox&show=prs_merged)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogilvieira&theme=gruvbox&layout=donut)
-
 ## Links
 ❤️ [My Website](https://ogilvieira.com.br/) **|**
 👔 [LinkedIn](https://www.linkedin.com/in/ogilvieira/)
