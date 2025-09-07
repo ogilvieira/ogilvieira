@@ -23,7 +23,6 @@ Open to learning and accessible for mentoring colleagues.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogilvieira&show_icons=true&theme=gruvbox&show=prs_merged)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogilvieira&theme=gruvbox&layout=donut)
 
-## Social
-❤️ [NPM Packages](https://www.npmjs.com/~ogilvieira?activeTab=packages) **|**
-🐦 [Twitter](https://www.linkedin.com/in/ogilvieira/) **|**
+## Links
+❤️ [My Website](https://ogilvieira.com.br/) **|**
 👔 [LinkedIn](https://www.linkedin.com/in/ogilvieira/)
