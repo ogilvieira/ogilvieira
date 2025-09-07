@@ -6,7 +6,7 @@ I am pragmatic and results-oriented, creating solutions that reduce costs and in
 
 My distinguishing feature is combining strategic vision, hands-on execution, and creativity in problem-solving, consistently contributing to the growth of both the team and the projects.
 
-🧔‍♂️ Experienced Professional
+🧔‍♂️ Experienced Professional  
 13 years of experience in multiple markets and technologies.
 
 🎯 Results-Focused  
