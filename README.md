@@ -1,10 +1,23 @@
 # Hello 👋
 
-I am a fullstack developer with over 10 years of experience in complex projects on different platforms. I am an expert in various programming languages, frameworks, and front-end and back-end technologies, which allows me to design and implement innovative and efficient solutions for the most demanding challenges.
+I have worked at advertising and marketing agencies, on white-label solutions, gambling platforms, and mobile applications, as well as contributing to the community through plugins for Node and Dart. I hold a degree in Internet Systems from Senac São Paulo and a postgraduate qualification in Cloud Computing, with English at the B2 level.
 
-I have always kept myself up-to-date with new technologies and market trends, which enables me to create scalable and high-quality solutions. Additionally, I have a strong interest in mentoring other developers, helping them to develop professionally and achieve their full potential.
+I am pragmatic and results-oriented, creating solutions that reduce costs and increase efficiency. I value teamwork, share knowledge as a mentor, and am always open to learning.
 
-I am always looking for new challenges and interesting projects, where I can apply my skills and experience to create high-impact solutions. If you are looking for an experienced fullstack developer who is passionate about technology, please do not hesitate to contact me.
+My distinguishing feature is combining strategic vision, hands-on execution, and creativity in problem-solving, consistently contributing to the growth of both the team and the projects.
+
+🧔‍♂️ Experienced Professional
+13 years of experience in multiple markets and technologies.
+
+🎯 Results-Focused
+Production aimed at reducing costs and maintenance.
+
+🪖 Resilience
+Handling pressure, overcoming challenges, and maintaining performance amid unexpected changes.
+
+👥 Proactive Collaborator
+Open to learning and accessible for mentoring colleagues.
+
 
 ## Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/66c355f234a9226f380c4636?variant=dark&roadmaps=golang%2Cnodejs%2Cjavascript%2Cvue)](https://roadmap.sh)
