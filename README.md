@@ -9,13 +9,13 @@ My distinguishing feature is combining strategic vision, hands-on execution, and
 🧔‍♂️ Experienced Professional
 13 years of experience in multiple markets and technologies.
 
-🎯 Results-Focused
+🎯 Results-Focused  
 Production aimed at reducing costs and maintenance.
 
-🪖 Resilience
+🪖 Resilience  
 Handling pressure, overcoming challenges, and maintaining performance amid unexpected changes.
 
-👥 Proactive Collaborator
+👥 Proactive Collaborator  
 Open to learning and accessible for mentoring colleagues.
 
 ## Links
